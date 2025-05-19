@@ -59,7 +59,7 @@ const provinces: string[] = [
 
 const provinceCoordinates: Record<string, { lat: number; lon: number }> = {
   // Same coordinates as before
-  "กทม": { lat: 14.9798997, lon: 102.0977693 },
+  "นครราชสีมา": { lat: 14.9798997, lon: 102.0977693 },
   "อุบลราชธานี": { lat: 15.2286861, lon: 104.8564217 },
   "ขอนแก่น": { lat: 16.4419355, lon: 102.8359921 },
   "อุดรธานี": { lat: 17.4138413, lon: 102.7872325 },
